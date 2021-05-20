@@ -8,6 +8,4 @@
 | 아웃 라이어 처리                  | 평균+4*표준편차 보다 큰 row  newbalanceOrig                    | 해당 row 삭제       |
 
 # EDA 절차
-[EDA 절차](~~.md)
-
-test
+[EDA 절차](EDA.md)
