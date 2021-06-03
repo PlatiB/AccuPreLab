@@ -33,7 +33,7 @@ SK C&amp;C DS과정 PreLab 정리를 위한 기본 Source Repository (Clone 후�
 
 
 # 1.EDA
-* [1.EDA로 이동](./1.EDA/README.md)
+* [1.EDA로 이동](./1.EDA/Data_science_EDA.ipynb)
 
 # 2.Load And Preprocessing
 * [2.LoadAndPreprocessing로 이동](./2.LoadAndPreprocessing/README.md)
